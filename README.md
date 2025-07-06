@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azeem Akram</h1>
 <h3 align="center">A Professional Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzefa1122&label=Profile%20views&color=0e75b6&style=flat" alt="azeem-akram" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeem-akram&label=Profile%20views&color=0e75b6&style=flat" alt="azeem-akram" /> </p>
 
 - 💬 Ask me about **React , JavaScript , Nodejs ,Express, MongoDB etc.**
 - 📫 How to reach me **admin@azeemdev.com** **+92 3477721896**
